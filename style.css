@@ -1,0 +1,212 @@
+body{
+    font-family: Roboto;
+}
+#conleft{
+    margin-top: 243px;
+}
+#conimg {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 1161px;
+    background-image: url(images/designer_1.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: auto;
+    z-index: -1;
+}
+#row1{
+    margin-top: 18px;
+    color: #37447E;
+    font-size: 14px;
+}
+#Landing{
+    margin-top: 12px;
+    color: #37447E;
+    font-size: 26px;
+    font-weight: 900; 
+}
+#header1{
+    font-size: 50px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+#buttonbackground1{
+    margin-top: 18px;
+}
+#button1{
+    color: white;
+    border-radius: 2px;
+    background-color: #111B47;
+    height: 26px;
+    width: 160px;
+    line-height: 0;
+    font-size: 12px;
+}
+#button2{
+    margin-left: 30px;
+    margin-top: 69px;
+    border-color: #091133;
+    border-width: 2px;
+    border-radius: 2px;
+    width: 189px;
+    height: 36px;
+    line-height: 0px;
+    font-size: 16px;
+}
+#button3{
+    background-color: #111B47;
+    color: white;
+    border-width: 2px;
+    border-radius: 2px;
+    width: 189px;
+    margin-top: 69px;
+    height: 36px;
+    line-height: 0px;
+    font-size: 16px;
+}
+#p1{
+    color: #37447E;
+    font-size: 18px; 
+}
+#header2{
+    font-size: 36px;
+    margin-top: 546px;
+    margin-bottom: 30px
+}
+#img2{
+    margin-top: 524px;
+}
+#headers3{
+    font-size: 16px;
+}
+#p2{
+    font-size: 14px;
+    margin-top: 13px;
+}
+#icons{
+    margin-top: 80px;
+    margin-bottom: 15px;
+}
+#paddings{
+    padding-top: 240px;
+    align-items: center;
+}
+#header4{
+    margin-bottom: 30px;
+}
+#p3{
+    color: #37447E;
+    font-size: 16px; 
+}
+#button4{
+    color: white;
+    border-radius: 2px;
+    background-color: #111B47;
+    width: 165px;
+    height: 32px;
+    line-height: 0;
+    font-size: 14px;
+}
+#backgroundimg{
+    content: "";
+    position: absolute;
+    top: 3607px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 1100px;
+    background-image: url(images/Rectangle.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    z-index: -1;
+}
+#header_footer{
+    padding-top: 300px;
+    font-size: 36px;
+}
+#p_footer{
+    color: #6F7CB2;
+    font-size: 16px;
+    padding-top: 16px;
+}
+#dolar{
+    padding-top: 35px;
+    font-size: 50px;
+    color: #222F65;
+    font-weight: 500;
+}
+#ui{
+    font-size: 16px;
+    color: #37447E;
+}
+#pgray{
+    color: #5D6970;
+    font-size: 14px;
+    padding-top: 60px;
+}
+#button5{
+    background-color: #111B47;
+    height: 32px;
+    width: 189px;
+    font-size: 14px;
+    line-height: 0;
+    color: white;
+    border-radius: 2px;
+}
+#textcenter{
+    text-align: center;
+    padding-bottom: 135px;
+    padding-top: 80px;
+}
+#p_footer2{
+    color: #939EA4;
+    font-size: 14px;
+}
+#landingfooter{
+    color: #37447E;
+    font-size: 26px;
+    font-weight: 900;
+    text-align: center;  
+}
+#buttonfooter{
+    background-color: #111B47;
+    height: 26px;
+    width: 109px;
+    font-size: 12px;
+    line-height: 0;
+    color: white;
+    border-radius: 2px;
+}
+#backgroundfooter{
+    background-color: #E7ECFF;
+    padding-top: 61px;
+    max-width: 1700px;
+}
+#footer_padding{
+    padding-bottom: 32px;
+}
+#facebook{
+    padding-top: 15px;
+    float: right;
+}
+#in{
+    padding-top: 15px;
+}
+#twitter{
+    padding-top: 17px;
+    float: right;
+    padding-left: 23px;
+}
+#youtube{
+    padding-top: 15px;   
+}
+#instagram{
+    padding-top: 15px;
+    float: right;
+    padding-left: 23px;
+}
